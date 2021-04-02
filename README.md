@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vhmvd
-- 👀 I’m interested in coding.
+- 👀 I love to code and solving problems.
 - 🌱 I’m currently learning JS and it's frameworks.
 - 📫 Contact me: ahmed210899@gmail.com
 - Linkedin: https://www.linkedin.com/in/vhmn/
