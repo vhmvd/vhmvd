@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vhmvd
 - 👀 I love to code and solving problems.
-- 🌱 I’m currently learning JS and it's frameworks.
+- 🌱 I’m currently Android apps development.
 - 📫 Contact me: ahmed210899@gmail.com
 - Linkedin: [Ahmed Nadeem](https://www.linkedin.com/in/vhmn/)
 - My [e-profile](https://ahmednadeem.me)
