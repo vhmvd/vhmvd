@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vhmvd
-- 👀 I love to code and solving problems.
-- 🌱 I’m currently Android apps development.
-- 📫 Contact me: ahmed210899@gmail.com
+- Hi, I’m @vhmvd
+- I love to code and solving problems.
+- I’m currently involved in Mobile apps development.
+- Contact me: ahmed210899@gmail.com
 - Linkedin: [Ahmed Nadeem](https://www.linkedin.com/in/vhmn/)
 
 <!---
