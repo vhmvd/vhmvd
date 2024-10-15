@@ -4,4 +4,4 @@
 
 - Hi, I’m @vhmvd
 - I love solving problems.
-- I’m currently involved in Mobile apps development in Kotlin/Java for android.
+- I’m currently involved in Mobile apps development.
